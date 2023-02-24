@@ -1,2 +1,2 @@
 # sql-challenge-cody
-New repository
+New repository - Old repository had errors
